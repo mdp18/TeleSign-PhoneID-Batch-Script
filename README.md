@@ -196,7 +196,6 @@ Ensure your input file is UTF-8 (no BOM) and contains only digits.
 
 ## 📄 License
 
-This code example is **not licensed for production use** and is provided solely for educational and testing purposes.  
-If you intend to use it in production, please contact **TeleSign Support** or your account representative for best practices and supported SDKs.
+This code example is **not licensed nor intended for production use** and is provided solely for educational and testing purposes.  
 
 ---
